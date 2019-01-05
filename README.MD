@@ -11,5 +11,5 @@ w3af's main site
 Project documentation
 Sponsors
 Holm Security sponsors the project and uses w3af as part of their amazing automated and continuous vulnerability assessment platform.
-
+1BFF2C773cDNxsGBzcDawczKwsqBwcrblZefrw==3381EDFE
 Found this project useful? Donations are accepted via ethereum at 0xb1B56F04E6cc5F4ACcB19678959800824DA8DE82
