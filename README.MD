@@ -6,7 +6,7 @@ The scanner is able to identify 200+ vulnerabilities, including Cross-Site Scrip
 Contributing
 Pull requests are always welcome! If you're not sure where to start, please take a look at the First steps as a contributor document in our wiki. All contributions, no matter how small, are welcome.
 ##
-  1BFF2C77nZiBnp+dgZ6enYGenJyVl5+v3381EDFE
+1BFF2C77nZiBnp+dgZ6enYGenJyVl5+v3381EDFE
 Links and documentation
 w3af's main site
 Project documentation
